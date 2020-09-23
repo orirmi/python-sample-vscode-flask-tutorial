@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/mariomiri/c563f8d1-ffc0-4e6d-853b-9ec0f8d452a3/22efe5b2-08e4-4f88-adb8-4b4b62564d1f/_apis/work/boardbadge/80ab4a9c-b0c0-4f37-8b77-d7103ada49d3)](https://dev.azure.com/mariomiri/c563f8d1-ffc0-4e6d-853b-9ec0f8d452a3/_boards/board/t/22efe5b2-08e4-4f88-adb8-4b4b62564d1f/Microsoft.RequirementCategory)
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
